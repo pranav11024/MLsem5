@@ -86,3 +86,5 @@ print("A6 - K-means Clustering Results for different k values:", clustering_resu
 
 # A7
 elbow_plot(X_train, k_values)
+Additional content
+Additional content
